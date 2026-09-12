@@ -8,5 +8,18 @@ I am a Software Engineering student currently taking **Programming Fundamentals 
 * **Software Development:** Building efficient and structured software solutions.
 * **Problem Solving:** Practicing logic and algorithmic thinking.
 
----
-*Feel free to check out my repository!*
+# Student Profile
+
+Welcome to my repository for **Programming Fundamentals Lab 03**.
+
+## My Favorite Programming Languages
+1. C
+2. Python
+3. C++
+
+## Learning Goals
+* Master basic syntax and structure
+* Understand memory management and pointers
+* Build efficient problem-solving algorithms
+
+***This document was updated as part of the GitHub Markdown lab exercise.***
