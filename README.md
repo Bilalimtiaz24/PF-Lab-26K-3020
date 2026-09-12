@@ -14,6 +14,11 @@
 
 **FAST-NUCES | BS Software Engineering | Semester 1**
 
+<div align="center">
+
+<img src="download.png" alt="FAST–NUCES" width="180">
+
+</div>
 
 ## Student Information
 
