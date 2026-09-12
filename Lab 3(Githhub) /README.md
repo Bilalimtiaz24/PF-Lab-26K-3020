@@ -1,4 +1,4 @@
-# Hi, I'm [Muhammad Bilal Imtiaz] 👋
+# Hi, I'm Muhammad Bilal Imtiaz 👋
 
 ## About Me
 I am a Software Engineering student currently taking **Programming Fundamentals (PF)**. I'm excited to build a strong foundation in computer science and problem-solving through coding.
